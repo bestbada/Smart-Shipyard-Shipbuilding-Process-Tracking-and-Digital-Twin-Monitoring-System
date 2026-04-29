@@ -43,6 +43,7 @@
 
 ## 팀원 구성
 - 멘토: 박해규 멘토님
-- 팀장: 이주현 (담당 역할 기재 - 예: 시스템 통합 및 파이프라인 구축)
-- 팀원: OOO (담당 역할 기재)
-- 팀원: OOO (담당 역할 기재)
+- 팀장: 고명재 (AI Vision)
+- 팀원: 이정기 (Backend & Streaming Engineer)
+- 팀원: 이주현 (Frontend & 3D Engineer)
+- 팀원: 이한종 (Edge H/W & PM)
